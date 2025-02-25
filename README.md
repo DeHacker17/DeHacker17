@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DeHacker17
 - 👀 I’m interested in Videogames, movies, programming (Java, C, and Python), machine learning
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach me jtopete@miners.utep.edu
+- 🌱 I’m a graduate in Computer Science
 
 <!---
 DeHacker17/DeHacker17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
